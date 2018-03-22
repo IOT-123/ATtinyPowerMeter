@@ -6,3 +6,6 @@ This ATtiny85 power meter can continuous measure the voltage(V), current(mA) and
 Please find more details at instructables:
 
 https://www.instructables.com/id/ATtinyPowerMeter/
+
+THIS IS A FORK FOR:
+https://www.instructables.com/id/IOT123-POWER-METER-BOX-Assembly
